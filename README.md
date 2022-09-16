@@ -8,7 +8,7 @@
 然后在**爱阅书香**书架上的**书源配置**界面上打开**同步功能**。在里面加入本项目地址
 
 ```
-https://gitee.com/ift123/iFreeTimeBookConfigs
+https://github.com/xlous-es/aysx-source
 ```
 
 ## 切记：本书源支持最低版本是：6.8.1。请自行到AppStore上更新到最新版本！
